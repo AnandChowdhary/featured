@@ -15,6 +15,15 @@ const request = (params) => {
 };
 
 export const updateData = async () => {
+  const colors = JSON.parse(
+    await request({
+      hostname: "raw.githubusercontent.com",
+      path: "/ozh/github-colors/master/colors.json",
+      port: 443,
+      method: "GET",
+      headers: { "User-Agent": "AnandChowdhary/featured" },
+    })
+  );
   const data = await request({
     hostname: "github.com",
     path: "/stars/AnandChowdhary/lists/featured-projects",
@@ -43,7 +52,15 @@ export const updateData = async () => {
             })
           )
       )
-    ).map((jsonAsText) => JSON.parse(jsonAsText))
+    ).map((jsonAsText) => {
+      const data = JSON.parse(jsonAsText);
+      return {
+        ...data,
+        language_color: !data.language
+          ? null
+          : (colors[data.language] || {}).color || null,
+      };
+    })
   );
   writeFileSync("repos.json", JSON.stringify(repos, null, 2) + "\n");
 };

@@ -1,7 +1,13 @@
-# Test
+# ⭐️ Featured projects
+
+This repository contains an API to access my favorite open source projects built by me.
+
+**API:** https://anandchowdhary.github.io/featured/repos.json
+
+<!--start:generated-->
 
 | Project | Language | Description |
-| ------- | -------- | ----------- || [upptime/upptime](https://github.com/upptime/upptime) |  | ⬆️ Free uptime monitor and status page powered by GitHub |
+| ------- | -------- | ----------- || [upptime/upptime](https://github.com/upptime/upptime) | | ⬆️ Free uptime monitor and status page powered by GitHub |
 | [elninotech/uppload](https://github.com/elninotech/uppload) | TypeScript | 📁 JavaScript image uploader and editor, no backend required |
 | [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) | TypeScript | 📅 Calendar link generator for popular services |
 | [AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) | TypeScript | 🖱️ Wikipedia summary cards for the web |
@@ -20,5 +26,7 @@
 | [AnandChowdhary/carpent](https://github.com/AnandChowdhary/carpent) | TypeScript | 🔨 Bootstrap and configure any project using its template |
 | [AnandChowdhary/essential.css](https://github.com/AnandChowdhary/essential.css) | HTML | A single CSS file to design beautiful webpages |
 | [AnandChowdhary/analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | TypeScript | 📈 Icons for browsers, OSes, devices, flags, and more |
+
+<!--end:generated-->
 
 Hello

@@ -67,7 +67,7 @@ export const updateData = async () => {
   await writeFile(
     "README.md",
     readmeText.split("<!--start:generated-->")[0] +
-      "| Project | Language | Description |\n| ------- | -------- | ----------- |" +
+      "<!--start:generated-->\n\n| Project | Language | Description |\n| ------- | -------- | ----------- |\n" +
       repos
         .map(
           (repo) =>
@@ -76,6 +76,7 @@ export const updateData = async () => {
             } | ${repo.description} |`
         )
         .join("\n") +
+      "\n\n<!--end:generated-->" +
       readmeText.split("<!--end:generated-->")[1]
   );
 };

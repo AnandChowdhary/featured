@@ -20,3 +20,7 @@ jobs:
           node-version: 14
       - name: Update notes summary
         run: node update-data.mjs
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: ":card_file_box: Update data"

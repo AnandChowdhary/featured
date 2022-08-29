@@ -1,4 +1,4 @@
-import { writeFileSync } from "node:fs";
+import { readFile, writeFile } from "node:fs/promises";
 import https from "https";
 
 /** Make a network request */
@@ -62,7 +62,22 @@ export const updateData = async () => {
       };
     })
   );
-  writeFileSync("repos.json", JSON.stringify(repos, null, 2) + "\n");
+  await writeFile("repos.json", JSON.stringify(repos, null, 2) + "\n");
+  const readmeText = await readFile("README.md", "utf8");
+  await writeFile(
+    "README.md",
+    readmeText.split("<!--start:generated-->")[0] +
+      "| Project | Language | Description |\n| ------- | -------- | ----------- |" +
+      repos
+        .map(
+          (repo) =>
+            `| [${repo.full_name}](${repo.html_url}) | ${
+              repo.language ? `${repo.language}` : ""
+            } | ${repo.description} |`
+        )
+        .join("\n") +
+      readmeText.split("<!--end:generated-->")[1]
+  );
 };
 
 updateData();

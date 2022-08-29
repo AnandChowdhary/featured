@@ -7,7 +7,8 @@ This repository contains an API to access my favorite open source projects built
 <!--start:generated-->
 
 | Project | Language | Description |
-| ------- | -------- | ----------- || [upptime/upptime](https://github.com/upptime/upptime) | | ⬆️ Free uptime monitor and status page powered by GitHub |
+| ------- | -------- | ----------- |
+| [upptime/upptime](https://github.com/upptime/upptime) |  | ⬆️ Free uptime monitor and status page powered by GitHub |
 | [elninotech/uppload](https://github.com/elninotech/uppload) | TypeScript | 📁 JavaScript image uploader and editor, no backend required |
 | [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) | TypeScript | 📅 Calendar link generator for popular services |
 | [AnandChowdhary/hovercard](https://github.com/AnandChowdhary/hovercard) | TypeScript | 🖱️ Wikipedia summary cards for the web |

@@ -67,17 +67,16 @@ export const updateData = async () => {
   await writeFile(
     "README.md",
     readmeText.split("<!--start:generated-->")[0] +
-      "<!--start:generated-->\n\n| Project | Language | Description |\n| ------- | -------- | ----------- |\n" +
-      repos
-        .map(
-          (repo) =>
-            `| [${repo.full_name}](${repo.html_url}) | ${
-              repo.language ? `${repo.language}` : ""
-            } | ${repo.description} |`
-        )
-        .join("\n") +
-      "\n\n<!--end:generated-->" +
-      readmeText.split("<!--end:generated-->")[1]
+    "<!--start:generated-->\n\n| Project | Language | Description |\n| ------- | -------- | ----------- |\n" +
+    repos
+      .map(
+        (repo) =>
+          `| [${repo.full_name}](${repo.html_url}) | ${repo.language ? `![](https://images.weserv.nl/?url=img.spacergif.org/v1/10x10/${(repo.language_color || "").replace("#", "")}.png&mask=circle) ${repo.language}` : ""
+          } | ${repo.description} |`
+      )
+      .join("\n") +
+    "\n\n<!--end:generated-->" +
+    readmeText.split("<!--end:generated-->")[1]
   );
 };
 

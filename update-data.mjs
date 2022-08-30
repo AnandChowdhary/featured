@@ -71,7 +71,7 @@ export const updateData = async () => {
     repos
       .map(
         (repo) =>
-          `| [${repo.full_name}](${repo.html_url}) | ${repo.language ? `![](https://images.weserv.nl/?url=img.spacergif.org/v1/10x10/${(repo.language_color || "").replace("#", "")}.png&mask=circle) ${repo.language}` : ""
+          `| [${repo.name}](${repo.html_url}) | ${repo.language ? `<img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/${(repo.language_color || "").replace("#", "")}.png&mask=circle" width="10" height="10"> ${repo.language}` : ""
           } | ${repo.description} |`
       )
       .join("\n") +

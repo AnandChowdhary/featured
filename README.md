@@ -27,6 +27,13 @@ This repository contains an API to access my favorite open source projects built
 | [carpent](https://github.com/AnandChowdhary/carpent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🔨 Bootstrap and configure any project using its template |
 | [essential.css](https://github.com/AnandChowdhary/essential.css) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | A single CSS file to design beautiful webpages |
 | [analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 📈 Icons for browsers, OSes, devices, flags, and more |
+| [remix-starter](https://github.com/AnandChowdhary/remix-starter) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 💿 Starter for @remix-run with localized routing and i18n |
+| [birthday-reminders-action](https://github.com/AnandChowdhary/birthday-reminders-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 🎁 Daily messages for birthday reminders using GitHub Actions |
+| [calendar-slots](https://github.com/AnandChowdhary/calendar-slots) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🗓️ Find empty appointment slots in a user's calendar |
+| [auto-i18n](https://github.com/AnandChowdhary/auto-i18n) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🌐 Automatically translate your JSON I18N files |
+| [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🏷️ Opinionated TypeScript starter for server-side Node.js libraries |
+| [puppet](https://github.com/AnandChowdhary/puppet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🎭 Natural language web automation with Puppeteer |
+| [docs-markdown](https://github.com/AnandChowdhary/docs-markdown) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 📝 Convert a Google Docs file (API response) to Markdown |
 
 <!--end:generated-->
 

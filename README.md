@@ -34,6 +34,7 @@ This repository contains an API to access my favorite open source projects built
 | [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🏷️ Opinionated TypeScript starter for server-side Node.js libraries |
 | [puppet](https://github.com/AnandChowdhary/puppet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🎭 Natural language web automation with Puppeteer |
 | [docs-markdown](https://github.com/AnandChowdhary/docs-markdown) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 📝 Convert a Google Docs file (API response) to Markdown |
+| [NewsHaikusBot](https://github.com/AnandChowdhary/NewsHaikusBot) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 🤖 Twitter bot which tweets news in haikus using GPT-3 |
 
 <!--end:generated-->
 

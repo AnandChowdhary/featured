@@ -61,18 +61,18 @@ export const updateData = async () => {
           : (colors[data.language] || {}).color || null,
       };
     })
-  );
+  ).sort((a, b) => b.stargazers_count - a.stargazers_count);
   await writeFile("repos.json", JSON.stringify(repos, null, 2) + "\n");
   const readmeText = await readFile("README.md", "utf8");
   await writeFile(
     "README.md",
     readmeText.split("<!--start:generated-->")[0] +
-    "<!--start:generated-->\n\n| Project | Language | Description |\n| ------- | -------- | ----------- |\n" +
+    "<!--start:generated-->\n\n| Project | Language | Stars |\n| ------- | -------- | ----------- |\n" +
     repos
       .map(
-        (repo) =>
-          `| [${repo.name}](${repo.html_url}) | ${repo.language ? `<img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/${(repo.language_color || "").replace("#", "")}.png&mask=circle" width="10" height="10"> ${repo.language}` : ""
-          } | ${repo.description} |`
+        (repo, index) =>
+          `| #${index + 1} [${repo.name}](${repo.html_url}) | ${repo.language ? `<img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/${(repo.language_color || "").replace("#", "")}.png&mask=circle" width="10" height="10"> ${repo.language}` : ""
+          } | ${repo.stargazers_count} |`
       )
       .join("\n") +
     "\n\n<!--end:generated-->" +

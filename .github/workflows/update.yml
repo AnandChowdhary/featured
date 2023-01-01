@@ -24,3 +24,9 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: ":card_file_box: Update data"
+      - name: Dispatch AnandChowdhary/everything update
+        uses: benc-uk/workflow-dispatch@v1.2.2
+        with:
+          repo: AnandChowdhary/everything
+          workflow: api.yml
+          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}

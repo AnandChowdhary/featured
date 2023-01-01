@@ -31,7 +31,7 @@ export const updateData = async () => {
     method: "GET",
     headers: { "User-Agent": "AnandChowdhary/featured" },
   });
-  const repos = await Promise.all(
+  const repos = (await Promise.all(
     (
       await Promise.all(
         (data.match(/\<h3\>\n.+\<a href=\".+\"\>/g) ?? [])
@@ -61,7 +61,7 @@ export const updateData = async () => {
           : (colors[data.language] || {}).color || null,
       };
     })
-  ).sort((a, b) => b.stargazers_count - a.stargazers_count);
+  )).sort((a, b) => b.stargazers_count - a.stargazers_count);
   await writeFile("repos.json", JSON.stringify(repos, null, 2) + "\n");
   const readmeText = await readFile("README.md", "utf8");
   await writeFile(

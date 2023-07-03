@@ -66,16 +66,16 @@
     "releases_url": "https://api.github.com/repos/upptime/upptime/releases{/id}",
     "deployments_url": "https://api.github.com/repos/upptime/upptime/deployments",
     "created_at": "2020-08-08T16:34:41Z",
-    "updated_at": "2023-06-25T15:56:56Z",
-    "pushed_at": "2023-06-26T01:21:14Z",
+    "updated_at": "2023-07-02T22:55:24Z",
+    "pushed_at": "2023-07-03T01:21:51Z",
     "git_url": "git://github.com/upptime/upptime.git",
     "ssh_url": "git@github.com:upptime/upptime.git",
     "clone_url": "https://github.com/upptime/upptime.git",
     "svn_url": "https://github.com/upptime/upptime",
     "homepage": "https://upptime.js.org",
-    "size": 492417,
-    "stargazers_count": 13330,
-    "watchers_count": 13330,
+    "size": 497676,
+    "stargazers_count": 13351,
+    "watchers_count": 13351,
     "language": "Markdown",
     "has_issues": true,
     "has_projects": false,
@@ -83,7 +83,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": true,
-    "forks_count": 772,
+    "forks_count": 773,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -107,9 +107,9 @@
       "uptime-monitor"
     ],
     "visibility": "public",
-    "forks": 772,
+    "forks": 773,
     "open_issues": 77,
-    "watchers": 13330,
+    "watchers": 13351,
     "default_branch": "master",
     "temp_clone_token": null,
     "organization": {
@@ -132,8 +132,8 @@
       "type": "Organization",
       "site_admin": false
     },
-    "network_count": 772,
-    "subscribers_count": 97,
+    "network_count": 773,
+    "subscribers_count": 96,
     "language_color": "#083fa1"
   },
   {
@@ -203,7 +203,7 @@
     "releases_url": "https://api.github.com/repos/elninotech/uppload/releases{/id}",
     "deployments_url": "https://api.github.com/repos/elninotech/uppload/deployments",
     "created_at": "2018-04-19T14:23:20Z",
-    "updated_at": "2023-06-25T00:38:43Z",
+    "updated_at": "2023-06-27T09:56:41Z",
     "pushed_at": "2023-05-30T05:10:53Z",
     "git_url": "git://github.com/elninotech/uppload.git",
     "ssh_url": "git@github.com:elninotech/uppload.git",
@@ -340,7 +340,7 @@
     "releases_url": "https://api.github.com/repos/AnandChowdhary/calendar-link/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/calendar-link/deployments",
     "created_at": "2019-01-16T15:51:01Z",
-    "updated_at": "2023-06-23T10:57:00Z",
+    "updated_at": "2023-06-27T11:27:44Z",
     "pushed_at": "2023-06-13T12:30:20Z",
     "git_url": "git://github.com/AnandChowdhary/calendar-link.git",
     "ssh_url": "git@github.com:AnandChowdhary/calendar-link.git",
@@ -348,8 +348,8 @@
     "svn_url": "https://github.com/AnandChowdhary/calendar-link",
     "homepage": "https://anandchowdhary.github.io/calendar-link/",
     "size": 2363,
-    "stargazers_count": 277,
-    "watchers_count": 277,
+    "stargazers_count": 278,
+    "watchers_count": 278,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -357,7 +357,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 58,
+    "forks_count": 59,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -382,13 +382,13 @@
       "yahoo"
     ],
     "visibility": "public",
-    "forks": 58,
+    "forks": 59,
     "open_issues": 6,
-    "watchers": 277,
+    "watchers": 278,
     "default_branch": "master",
     "temp_clone_token": null,
-    "network_count": 58,
-    "subscribers_count": 3,
+    "network_count": 59,
+    "subscribers_count": 4,
     "language_color": "#3178c6"
   },
   {
@@ -634,7 +634,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 10,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -980,7 +980,7 @@
       "temp_clone_token": null
     },
     "network_count": 10,
-    "subscribers_count": 2,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -1091,7 +1091,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -1205,7 +1205,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 16,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -1435,7 +1435,7 @@
       "temp_clone_token": null
     },
     "network_count": 9,
-    "subscribers_count": 2,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -1551,7 +1551,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 4,
-    "subscribers_count": 2,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -1669,7 +1669,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -1785,7 +1785,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#41b883"
   },
   {
@@ -2014,7 +2014,7 @@
       "temp_clone_token": null
     },
     "network_count": 3,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -2130,7 +2130,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#41b883"
   },
   {
@@ -2246,7 +2246,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -2361,7 +2361,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 7,
-    "subscribers_count": 3,
+    "subscribers_count": 4,
     "language_color": "#3178c6"
   },
   {
@@ -2448,7 +2448,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 2,
+    "forks_count": 1,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -2466,13 +2466,13 @@
       "wayback-machine"
     ],
     "visibility": "public",
-    "forks": 2,
+    "forks": 1,
     "open_issues": 11,
     "watchers": 9,
     "default_branch": "master",
     "temp_clone_token": null,
-    "network_count": 2,
-    "subscribers_count": 1,
+    "network_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -2702,7 +2702,7 @@
       "temp_clone_token": null
     },
     "network_count": 3,
-    "subscribers_count": 0,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -2933,7 +2933,7 @@
       "temp_clone_token": null
     },
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -3163,7 +3163,7 @@
       "temp_clone_token": null
     },
     "network_count": 2,
-    "subscribers_count": 2,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -3280,7 +3280,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -3396,7 +3396,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 3,
     "language_color": "#f1e05a"
   },
   {
@@ -3513,7 +3513,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 3,
+    "subscribers_count": 4,
     "language_color": "#3178c6"
   },
   {
@@ -3742,7 +3742,7 @@
       "temp_clone_token": null
     },
     "network_count": 1,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -3853,7 +3853,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#e34c26"
   },
   {
@@ -3970,7 +3970,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -4086,7 +4086,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -4194,7 +4194,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#e34c26"
   },
   {
@@ -4304,7 +4304,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 1,
+    "subscribers_count": 2,
     "language_color": "#563d7c"
   }
 ]

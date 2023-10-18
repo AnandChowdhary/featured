@@ -32,12 +32,14 @@ This repository contains an API to access my favorite open source projects built
 | #22 [birthday-reminders-action](https://github.com/AnandChowdhary/birthday-reminders-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 7 |
 | #23 [changebar](https://github.com/AnandChowdhary/changebar) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 6 |
 | #24 [NewsHaikusBot](https://github.com/AnandChowdhary/NewsHaikusBot) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
-| #25 [carpent](https://github.com/AnandChowdhary/carpent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #26 [essential.css](https://github.com/AnandChowdhary/essential.css) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 3 |
-| #27 [analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #28 [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
-| #29 [precis](https://github.com/AnandChowdhary/precis) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 1 |
-| #30 [aptitude](https://github.com/AnandChowdhary/aptitude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/563d7c.png&mask=circle" width="10" height="10"> CSS | 1 |
+| #25 [deliverabilityguide.com](https://github.com/AnandChowdhary/deliverabilityguide.com) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
+| #26 [carpent](https://github.com/AnandChowdhary/carpent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #27 [essential.css](https://github.com/AnandChowdhary/essential.css) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 3 |
+| #28 [analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #29 [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
+| #30 [precis](https://github.com/AnandChowdhary/precis) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 1 |
+| #31 [aptitude](https://github.com/AnandChowdhary/aptitude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/563d7c.png&mask=circle" width="10" height="10"> CSS | 1 |
+| #32 [one-grid](https://github.com/AnandChowdhary/one-grid) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 1 |
 
 <!--end:generated-->
 

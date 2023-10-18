@@ -86,7 +86,6 @@ export const updateData = async () => {
       })
     )
   ).sort((a, b) => b.stargazers_count - a.stargazers_count);
-  console.log(repos);
   console.log("Fetched all repos", repos.length);
 
   await writeFile("repos.json", JSON.stringify(repos, null, 2) + "\n");

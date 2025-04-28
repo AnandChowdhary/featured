@@ -8,21 +8,21 @@ This repository contains an API to access my favorite open source projects built
 
 | Project | Language | Stars |
 | ------- | -------- | ----------- |
-| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/292929.png&mask=circle" width="10" height="10"> JSON | 16045 |
-| #2 [uppload](https://github.com/elninotech/uppload) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 1862 |
-| #3 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 575 |
+| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/292929.png&mask=circle" width="10" height="10"> JSON | 16065 |
+| #2 [uppload](https://github.com/elninotech/uppload) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 1863 |
+| #3 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 576 |
 | #4 [redirect-russia](https://github.com/pabio/redirect-russia) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 101 |
 | #5 [hovercard](https://github.com/AnandChowdhary/hovercard) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 90 |
 | #6 [hello-bar](https://github.com/AnandChowdhary/hello-bar) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 75 |
 | #7 [bookshelf-action](https://github.com/AnandChowdhary/bookshelf-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 70 |
 | #8 [language-icons](https://github.com/AnandChowdhary/language-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 65 |
-| #9 [docs-markdown](https://github.com/AnandChowdhary/docs-markdown) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 60 |
+| #9 [docs-markdown](https://github.com/AnandChowdhary/docs-markdown) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 61 |
 | #10 [remix-starter](https://github.com/AnandChowdhary/remix-starter) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 56 |
 | #11 [update-template](https://github.com/AnandChowdhary/update-template) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 33 |
 | #12 [auto-i18n](https://github.com/AnandChowdhary/auto-i18n) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 31 |
 | #13 [sharer.link](https://github.com/AnandChowdhary/sharer.link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/41b883.png&mask=circle" width="10" height="10"> Vue | 23 |
 | #14 [calendar-slots](https://github.com/AnandChowdhary/calendar-slots) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 20 |
-| #15 [deliverabilityguide.com](https://github.com/AnandChowdhary/deliverabilityguide.com) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 19 |
+| #15 [deliverabilityguide.com](https://github.com/AnandChowdhary/deliverabilityguide.com) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 20 |
 | #16 [gitwriter](https://github.com/AnandChowdhary/gitwriter) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/41b883.png&mask=circle" width="10" height="10"> Vue | 16 |
 | #17 [fraud](https://github.com/AnandChowdhary/fraud) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 16 |
 | #18 [puppet](https://github.com/AnandChowdhary/puppet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 13 |

@@ -8,7 +8,7 @@ This repository contains an API to access my favorite open source projects built
 
 | Project | Language | Stars |
 | ------- | -------- | ----------- |
-| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/292929.png&mask=circle" width="10" height="10"> JSON | 16243 |
+| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/292929.png&mask=circle" width="10" height="10"> JSON | 16259 |
 | #2 [uppload](https://github.com/elninotech/uppload) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 1864 |
 | #3 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 605 |
 | #4 [redirect-russia](https://github.com/pabio/redirect-russia) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 101 |
@@ -26,7 +26,7 @@ This repository contains an API to access my favorite open source projects built
 | #16 [gitwriter](https://github.com/AnandChowdhary/gitwriter) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/41b883.png&mask=circle" width="10" height="10"> Vue | 16 |
 | #17 [fraud](https://github.com/AnandChowdhary/fraud) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 16 |
 | #18 [puppet](https://github.com/AnandChowdhary/puppet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 14 |
-| #19 [chat](https://github.com/AnandChowdhary/chat) |  | 13 |
+| #19 [chat](https://github.com/AnandChowdhary/chat) |  | 14 |
 | #20 [archiver](https://github.com/AnandChowdhary/archiver) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 12 |
 | #21 [scrub](https://github.com/AnandChowdhary/scrub) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 11 |
 | #22 [feeedback](https://github.com/AnandChowdhary/feeedback) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 8 |
@@ -34,13 +34,14 @@ This repository contains an API to access my favorite open source projects built
 | #24 [changebar](https://github.com/AnandChowdhary/changebar) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
 | #25 [birthday-reminders-action](https://github.com/AnandChowdhary/birthday-reminders-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 7 |
 | #26 [NewsHaikusBot](https://github.com/AnandChowdhary/NewsHaikusBot) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
-| #27 [carpent](https://github.com/AnandChowdhary/carpent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #28 [essential.css](https://github.com/AnandChowdhary/essential.css) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 3 |
-| #29 [analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #30 [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
-| #31 [one-grid](https://github.com/AnandChowdhary/one-grid) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2 |
-| #32 [precis](https://github.com/AnandChowdhary/precis) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 1 |
-| #33 [aptitude](https://github.com/AnandChowdhary/aptitude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/663399.png&mask=circle" width="10" height="10"> CSS | 1 |
+| #27 [priced-in](https://github.com/AnandChowdhary/priced-in) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
+| #28 [carpent](https://github.com/AnandChowdhary/carpent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #29 [essential.css](https://github.com/AnandChowdhary/essential.css) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 3 |
+| #30 [analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #31 [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
+| #32 [one-grid](https://github.com/AnandChowdhary/one-grid) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2 |
+| #33 [precis](https://github.com/AnandChowdhary/precis) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 1 |
+| #34 [aptitude](https://github.com/AnandChowdhary/aptitude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/663399.png&mask=circle" width="10" height="10"> CSS | 1 |
 
 <!--end:generated-->
 

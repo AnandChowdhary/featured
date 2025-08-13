@@ -14,11 +14,11 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Setup Node.js v12
-        uses: actions/setup-node@v3
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: "lts/*"
       - name: Update notes summary
         run: node update-data.mjs
       - name: Commit and push
@@ -26,7 +26,7 @@ jobs:
         with:
           commit_message: ":card_file_box: Update data"
       - name: Dispatch AnandChowdhary/everything update
-        uses: benc-uk/workflow-dispatch@v1.2.2
+        uses: benc-uk/workflow-dispatch@v1
         with:
           repo: AnandChowdhary/everything
           workflow: api.yml

@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/upptime/upptime/releases{/id}",
     "deployments_url": "https://api.github.com/repos/upptime/upptime/deployments",
     "created_at": "2020-08-08T16:34:41Z",
-    "updated_at": "2025-09-29T01:22:58Z",
-    "pushed_at": "2025-09-29T01:22:54Z",
+    "updated_at": "2025-10-06T01:19:41Z",
+    "pushed_at": "2025-10-06T01:19:37Z",
     "git_url": "git://github.com/upptime/upptime.git",
     "ssh_url": "git@github.com:upptime/upptime.git",
     "clone_url": "https://github.com/upptime/upptime.git",
     "svn_url": "https://github.com/upptime/upptime",
     "homepage": "https://upptime.js.org",
-    "size": 912478,
-    "stargazers_count": 16545,
-    "watchers_count": 16545,
+    "size": 916296,
+    "stargazers_count": 16550,
+    "watchers_count": 16550,
     "language": "JSON",
     "has_issues": true,
     "has_projects": false,
@@ -84,7 +84,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": true,
-    "forks_count": 983,
+    "forks_count": 981,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -108,9 +108,9 @@
       "uptime-monitor"
     ],
     "visibility": "public",
-    "forks": 983,
+    "forks": 981,
     "open_issues": 114,
-    "watchers": 16545,
+    "watchers": 16550,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {},
@@ -135,8 +135,8 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 983,
-    "subscribers_count": 100,
+    "network_count": 981,
+    "subscribers_count": 99,
     "language_color": "#292929"
   },
   {
@@ -207,7 +207,7 @@
     "releases_url": "https://api.github.com/repos/elninotech/uppload/releases{/id}",
     "deployments_url": "https://api.github.com/repos/elninotech/uppload/deployments",
     "created_at": "2018-04-19T14:23:20Z",
-    "updated_at": "2025-09-26T11:02:52Z",
+    "updated_at": "2025-10-04T15:56:59Z",
     "pushed_at": "2025-07-02T14:50:03Z",
     "git_url": "git://github.com/elninotech/uppload.git",
     "ssh_url": "git@github.com:elninotech/uppload.git",
@@ -215,8 +215,8 @@
     "svn_url": "https://github.com/elninotech/uppload",
     "homepage": "https://uppload.js.org",
     "size": 44318,
-    "stargazers_count": 1870,
-    "watchers_count": 1870,
+    "stargazers_count": 1867,
+    "watchers_count": 1867,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -251,7 +251,7 @@
     "visibility": "public",
     "forks": 128,
     "open_issues": 50,
-    "watchers": 1870,
+    "watchers": 1867,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {},
@@ -277,7 +277,7 @@
       "site_admin": false
     },
     "network_count": 128,
-    "subscribers_count": 33,
+    "subscribers_count": 32,
     "language_color": "#3178c6"
   },
   {
@@ -348,16 +348,16 @@
     "releases_url": "https://api.github.com/repos/AnandChowdhary/calendar-link/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/calendar-link/deployments",
     "created_at": "2019-01-16T15:51:01Z",
-    "updated_at": "2025-09-15T11:45:18Z",
-    "pushed_at": "2025-09-19T20:01:20Z",
+    "updated_at": "2025-10-04T20:56:42Z",
+    "pushed_at": "2025-10-01T20:01:14Z",
     "git_url": "git://github.com/AnandChowdhary/calendar-link.git",
     "ssh_url": "git@github.com:AnandChowdhary/calendar-link.git",
     "clone_url": "https://github.com/AnandChowdhary/calendar-link.git",
     "svn_url": "https://github.com/AnandChowdhary/calendar-link",
     "homepage": "https://anandchowdhary.github.io/calendar-link/",
-    "size": 2116,
-    "stargazers_count": 614,
-    "watchers_count": 614,
+    "size": 2277,
+    "stargazers_count": 615,
+    "watchers_count": 615,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -365,11 +365,11 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 75,
+    "forks_count": 76,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -390,13 +390,13 @@
       "yahoo"
     ],
     "visibility": "public",
-    "forks": 75,
-    "open_issues": 10,
-    "watchers": 614,
+    "forks": 76,
+    "open_issues": 11,
+    "watchers": 615,
     "default_branch": "master",
     "temp_clone_token": null,
-    "network_count": 75,
-    "subscribers_count": 4,
+    "network_count": 76,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -529,7 +529,7 @@
       "site_admin": false
     },
     "network_count": 18,
-    "subscribers_count": 7,
+    "subscribers_count": 6,
     "language_color": "#e34c26"
   },
   {
@@ -646,7 +646,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 10,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -763,7 +763,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 10,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#f1e05a"
   },
   {
@@ -995,7 +995,7 @@
       "temp_clone_token": null
     },
     "network_count": 18,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -1066,7 +1066,7 @@
     "releases_url": "https://api.github.com/repos/AnandChowdhary/language-icons/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/language-icons/deployments",
     "created_at": "2019-03-02T13:13:08Z",
-    "updated_at": "2025-08-10T18:04:49Z",
+    "updated_at": "2025-09-30T12:41:30Z",
     "pushed_at": "2025-06-14T22:33:35Z",
     "git_url": "git://github.com/AnandChowdhary/language-icons.git",
     "ssh_url": "git@github.com:AnandChowdhary/language-icons.git",
@@ -1074,8 +1074,8 @@
     "svn_url": "https://github.com/AnandChowdhary/language-icons",
     "homepage": "https://anandchowdhary.github.io/language-icons/",
     "size": 314,
-    "stargazers_count": 67,
-    "watchers_count": 67,
+    "stargazers_count": 68,
+    "watchers_count": 68,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": true,
@@ -1106,11 +1106,11 @@
     "visibility": "public",
     "forks": 21,
     "open_issues": 10,
-    "watchers": 67,
+    "watchers": 68,
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 21,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -1342,7 +1342,7 @@
       "temp_clone_token": null
     },
     "network_count": 10,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -1454,7 +1454,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -1525,16 +1525,16 @@
     "releases_url": "https://api.github.com/repos/AnandChowdhary/priced-in/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/priced-in/deployments",
     "created_at": "2025-06-24T10:11:52Z",
-    "updated_at": "2025-09-29T00:22:56Z",
-    "pushed_at": "2025-09-29T00:22:53Z",
+    "updated_at": "2025-10-06T00:15:49Z",
+    "pushed_at": "2025-10-06T00:15:46Z",
     "git_url": "git://github.com/AnandChowdhary/priced-in.git",
     "ssh_url": "git@github.com:AnandChowdhary/priced-in.git",
     "clone_url": "https://github.com/AnandChowdhary/priced-in.git",
     "svn_url": "https://github.com/AnandChowdhary/priced-in",
     "homepage": "",
-    "size": 18830,
-    "stargazers_count": 35,
-    "watchers_count": 35,
+    "size": 8910,
+    "stargazers_count": 38,
+    "watchers_count": 38,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -1542,11 +1542,11 @@
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 13,
+    "forks_count": 14,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -1559,12 +1559,12 @@
     "web_commit_signoff_required": false,
     "topics": [],
     "visibility": "public",
-    "forks": 13,
-    "open_issues": 6,
-    "watchers": 35,
+    "forks": 14,
+    "open_issues": 4,
+    "watchers": 38,
     "default_branch": "main",
     "temp_clone_token": null,
-    "network_count": 13,
+    "network_count": 14,
     "subscribers_count": 0,
     "language_color": "#3178c6"
   },
@@ -1682,7 +1682,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 5,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -1801,7 +1801,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -1918,7 +1918,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#41b883"
   },
   {
@@ -1989,7 +1989,7 @@
     "releases_url": "https://api.github.com/repos/AnandChowdhary/deliverabilityguide.com/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/deliverabilityguide.com/deployments",
     "created_at": "2023-08-24T13:15:59Z",
-    "updated_at": "2025-09-28T23:09:16Z",
+    "updated_at": "2025-10-04T14:29:31Z",
     "pushed_at": "2024-05-10T01:48:25Z",
     "git_url": "git://github.com/AnandChowdhary/deliverabilityguide.com.git",
     "ssh_url": "git@github.com:AnandChowdhary/deliverabilityguide.com.git",
@@ -1997,8 +1997,8 @@
     "svn_url": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "homepage": "http://deliverabilityguide.com",
     "size": 7967,
-    "stargazers_count": 22,
-    "watchers_count": 22,
+    "stargazers_count": 21,
+    "watchers_count": 21,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -2034,11 +2034,11 @@
     "visibility": "public",
     "forks": 2,
     "open_issues": 2,
-    "watchers": 22,
+    "watchers": 21,
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 4,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -2269,7 +2269,7 @@
       "temp_clone_token": null
     },
     "network_count": 5,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -2388,7 +2388,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -2505,7 +2505,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#41b883"
   },
   {
@@ -2622,7 +2622,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -2855,7 +2855,7 @@
       "temp_clone_token": null
     },
     "network_count": 2,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -3078,7 +3078,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -3194,7 +3194,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 6,
-    "subscribers_count": 4,
+    "subscribers_count": 3,
     "language_color": "#3178c6"
   },
   {
@@ -3315,7 +3315,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -3426,7 +3426,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#438eff"
   },
   {
@@ -3657,7 +3657,7 @@
       "temp_clone_token": null
     },
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -3889,7 +3889,7 @@
       "temp_clone_token": null
     },
     "network_count": 4,
-    "subscribers_count": 1,
+    "subscribers_count": 0,
     "language_color": "#3178c6"
   },
   {
@@ -4007,7 +4007,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -4126,7 +4126,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#f1e05a"
   },
   {
@@ -4358,7 +4358,7 @@
       "temp_clone_token": null
     },
     "network_count": 2,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#3178c6"
   },
   {
@@ -4476,7 +4476,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -4593,8 +4593,128 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 2,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#f1e05a"
+  },
+  {
+    "id": 1019433345,
+    "node_id": "R_kgDOPMNRgQ",
+    "name": "claude-code-slack-bot",
+    "full_name": "AnandChowdhary/claude-code-slack-bot",
+    "private": false,
+    "owner": {
+      "login": "AnandChowdhary",
+      "id": 2841780,
+      "node_id": "MDQ6VXNlcjI4NDE3ODA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2841780?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/AnandChowdhary",
+      "html_url": "https://github.com/AnandChowdhary",
+      "followers_url": "https://api.github.com/users/AnandChowdhary/followers",
+      "following_url": "https://api.github.com/users/AnandChowdhary/following{/other_user}",
+      "gists_url": "https://api.github.com/users/AnandChowdhary/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/AnandChowdhary/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/AnandChowdhary/subscriptions",
+      "organizations_url": "https://api.github.com/users/AnandChowdhary/orgs",
+      "repos_url": "https://api.github.com/users/AnandChowdhary/repos",
+      "events_url": "https://api.github.com/users/AnandChowdhary/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/AnandChowdhary/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/AnandChowdhary/claude-code-slack-bot",
+    "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
+    "fork": false,
+    "url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot",
+    "forks_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/forks",
+    "keys_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/teams",
+    "hooks_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/hooks",
+    "issue_events_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/events",
+    "assignees_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/tags",
+    "blobs_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/languages",
+    "stargazers_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/stargazers",
+    "contributors_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/contributors",
+    "subscribers_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/subscribers",
+    "subscription_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/subscription",
+    "commits_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/merges",
+    "archive_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/downloads",
+    "issues_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/labels{/name}",
+    "releases_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/deployments",
+    "created_at": "2025-07-14T10:13:02Z",
+    "updated_at": "2025-09-29T03:00:12Z",
+    "pushed_at": "2025-09-04T15:39:26Z",
+    "git_url": "git://github.com/AnandChowdhary/claude-code-slack-bot.git",
+    "ssh_url": "git@github.com:AnandChowdhary/claude-code-slack-bot.git",
+    "clone_url": "https://github.com/AnandChowdhary/claude-code-slack-bot.git",
+    "svn_url": "https://github.com/AnandChowdhary/claude-code-slack-bot",
+    "homepage": "",
+    "size": 128,
+    "stargazers_count": 7,
+    "watchers_count": 7,
+    "language": "TypeScript",
+    "has_issues": true,
+    "has_projects": false,
+    "has_downloads": true,
+    "has_wiki": false,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 2,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 1,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "cloudflare-workers",
+      "github-actions",
+      "hono",
+      "slack",
+      "slack-bot"
+    ],
+    "visibility": "public",
+    "forks": 2,
+    "open_issues": 1,
+    "watchers": 7,
+    "default_branch": "main",
+    "temp_clone_token": null,
+    "network_count": 2,
+    "subscribers_count": 0,
+    "language_color": "#3178c6"
   },
   {
     "id": 340687423,
@@ -4710,127 +4830,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
-    "language_color": "#3178c6"
-  },
-  {
-    "id": 1019433345,
-    "node_id": "R_kgDOPMNRgQ",
-    "name": "claude-code-slack-bot",
-    "full_name": "AnandChowdhary/claude-code-slack-bot",
-    "private": false,
-    "owner": {
-      "login": "AnandChowdhary",
-      "id": 2841780,
-      "node_id": "MDQ6VXNlcjI4NDE3ODA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2841780?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/AnandChowdhary",
-      "html_url": "https://github.com/AnandChowdhary",
-      "followers_url": "https://api.github.com/users/AnandChowdhary/followers",
-      "following_url": "https://api.github.com/users/AnandChowdhary/following{/other_user}",
-      "gists_url": "https://api.github.com/users/AnandChowdhary/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/AnandChowdhary/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/AnandChowdhary/subscriptions",
-      "organizations_url": "https://api.github.com/users/AnandChowdhary/orgs",
-      "repos_url": "https://api.github.com/users/AnandChowdhary/repos",
-      "events_url": "https://api.github.com/users/AnandChowdhary/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/AnandChowdhary/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "html_url": "https://github.com/AnandChowdhary/claude-code-slack-bot",
-    "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-    "fork": false,
-    "url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot",
-    "forks_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/forks",
-    "keys_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/keys{/key_id}",
-    "collaborators_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/collaborators{/collaborator}",
-    "teams_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/teams",
-    "hooks_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/hooks",
-    "issue_events_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/issues/events{/number}",
-    "events_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/events",
-    "assignees_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/assignees{/user}",
-    "branches_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/branches{/branch}",
-    "tags_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/tags",
-    "blobs_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/blobs{/sha}",
-    "git_tags_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/tags{/sha}",
-    "git_refs_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/refs{/sha}",
-    "trees_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/trees{/sha}",
-    "statuses_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/statuses/{sha}",
-    "languages_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/languages",
-    "stargazers_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/stargazers",
-    "contributors_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/contributors",
-    "subscribers_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/subscribers",
-    "subscription_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/subscription",
-    "commits_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/commits{/sha}",
-    "git_commits_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/git/commits{/sha}",
-    "comments_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/comments{/number}",
-    "issue_comment_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/issues/comments{/number}",
-    "contents_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/contents/{+path}",
-    "compare_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/compare/{base}...{head}",
-    "merges_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/merges",
-    "archive_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/{archive_format}{/ref}",
-    "downloads_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/downloads",
-    "issues_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/issues{/number}",
-    "pulls_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/pulls{/number}",
-    "milestones_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/milestones{/number}",
-    "notifications_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/notifications{?since,all,participating}",
-    "labels_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/labels{/name}",
-    "releases_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/releases{/id}",
-    "deployments_url": "https://api.github.com/repos/AnandChowdhary/claude-code-slack-bot/deployments",
-    "created_at": "2025-07-14T10:13:02Z",
-    "updated_at": "2025-09-03T10:49:46Z",
-    "pushed_at": "2025-09-04T15:39:26Z",
-    "git_url": "git://github.com/AnandChowdhary/claude-code-slack-bot.git",
-    "ssh_url": "git@github.com:AnandChowdhary/claude-code-slack-bot.git",
-    "clone_url": "https://github.com/AnandChowdhary/claude-code-slack-bot.git",
-    "svn_url": "https://github.com/AnandChowdhary/claude-code-slack-bot",
-    "homepage": "",
-    "size": 128,
-    "stargazers_count": 6,
-    "watchers_count": 6,
-    "language": "TypeScript",
-    "has_issues": true,
-    "has_projects": false,
-    "has_downloads": true,
-    "has_wiki": false,
-    "has_pages": false,
-    "has_discussions": false,
-    "forks_count": 2,
-    "mirror_url": null,
-    "archived": false,
-    "disabled": false,
-    "open_issues_count": 1,
-    "license": {
-      "key": "mit",
-      "name": "MIT License",
-      "spdx_id": "MIT",
-      "url": "https://api.github.com/licenses/mit",
-      "node_id": "MDc6TGljZW5zZTEz"
-    },
-    "allow_forking": true,
-    "is_template": false,
-    "web_commit_signoff_required": false,
-    "topics": [
-      "claude",
-      "claude-ai",
-      "claude-code",
-      "cloudflare-workers",
-      "github-actions",
-      "hono",
-      "slack",
-      "slack-bot"
-    ],
-    "visibility": "public",
-    "forks": 2,
-    "open_issues": 1,
-    "watchers": 6,
-    "default_branch": "main",
-    "temp_clone_token": null,
-    "network_count": 2,
-    "subscribers_count": 0,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5064,7 +5064,7 @@
       "temp_clone_token": null
     },
     "network_count": 3,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5182,7 +5182,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5293,7 +5293,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5411,7 +5411,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5522,7 +5522,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5641,7 +5641,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5759,7 +5759,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -5869,7 +5869,7 @@
     "default_branch": "main",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -6100,7 +6100,7 @@
       "temp_clone_token": null
     },
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -6212,7 +6212,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#e34c26"
   },
   {
@@ -6330,7 +6330,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -6565,7 +6565,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -6797,7 +6797,7 @@
       "temp_clone_token": null
     },
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -6907,7 +6907,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#4F5D95"
   },
   {
@@ -7242,7 +7242,7 @@
       "default_branch": "master"
     },
     "network_count": 4,
-    "subscribers_count": 1,
+    "subscribers_count": 0,
     "language_color": "#3572A5"
   },
   {
@@ -7470,7 +7470,7 @@
       "temp_clone_token": null
     },
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -7588,7 +7588,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 3,
+    "subscribers_count": 2,
     "language_color": "#f1e05a"
   },
   {
@@ -7704,7 +7704,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#f34b7d"
   },
   {
@@ -7821,7 +7821,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#0096D8"
   },
   {
@@ -7936,7 +7936,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#0096D8"
   },
   {
@@ -8053,7 +8053,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 3,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -8170,7 +8170,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#e34c26"
   },
   {
@@ -8402,7 +8402,7 @@
       "temp_clone_token": null
     },
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -8633,7 +8633,7 @@
       "temp_clone_token": null
     },
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -8738,7 +8738,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#e34c26"
   },
   {
@@ -8847,7 +8847,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#e34c26"
   },
   {
@@ -8958,7 +8958,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 1,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#663399"
   },
   {
@@ -9185,7 +9185,7 @@
       "temp_clone_token": null
     },
     "network_count": 2,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#3178c6"
   },
   {
@@ -9302,7 +9302,7 @@
     "default_branch": "master",
     "temp_clone_token": null,
     "network_count": 0,
-    "subscribers_count": 2,
+    "subscribers_count": 1,
     "language_color": "#4F5D95"
   }
 ]

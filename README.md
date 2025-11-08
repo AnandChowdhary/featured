@@ -8,7 +8,7 @@ This repository contains an API to access my favorite open source projects built
 
 | Project | Language | Stars |
 | ------- | -------- | ----------- |
-| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/292929.png&mask=circle" width="10" height="10"> JSON | 16626 |
+| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/292929.png&mask=circle" width="10" height="10"> JSON | 16637 |
 | #2 [uppload](https://github.com/elninotech/uppload) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 1869 |
 | #3 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 613 |
 | #4 [redirect-russia](https://github.com/pabio/redirect-russia) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 100 |
@@ -27,50 +27,50 @@ This repository contains an API to access my favorite open source projects built
 | #17 [hackerbadge](https://github.com/AnandChowdhary/hackerbadge) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 18 |
 | #18 [gitwriter](https://github.com/AnandChowdhary/gitwriter) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/41b883.png&mask=circle" width="10" height="10"> Vue | 16 |
 | #19 [fraud](https://github.com/AnandChowdhary/fraud) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 16 |
-| #20 [archiver](https://github.com/AnandChowdhary/archiver) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 12 |
-| #21 [chat](https://github.com/AnandChowdhary/chat) |  | 12 |
-| #22 [scrub](https://github.com/AnandChowdhary/scrub) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 11 |
-| #23 [nord.js](https://github.com/AnandChowdhary/nord.js) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 11 |
-| #24 [yoga](https://github.com/AnandChowdhary/yoga) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/438eff.png&mask=circle" width="10" height="10"> Objective-C | 10 |
-| #25 [deploy-pr-action](https://github.com/AnandChowdhary/deploy-pr-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 10 |
-| #26 [feeedback](https://github.com/AnandChowdhary/feeedback) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 9 |
-| #27 [unfs](https://github.com/AnandChowdhary/unfs) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 9 |
-| #28 [run-url](https://github.com/AnandChowdhary/run-url) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 9 |
-| #29 [twt](https://github.com/AnandChowdhary/twt) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
-| #30 [changebar](https://github.com/AnandChowdhary/changebar) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
-| #31 [birthday-reminders-action](https://github.com/AnandChowdhary/birthday-reminders-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 7 |
-| #32 [claude-code-slack-bot](https://github.com/AnandChowdhary/claude-code-slack-bot) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
-| #33 [errol](https://github.com/AnandChowdhary/errol) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 6 |
-| #34 [NewsHaikusBot](https://github.com/AnandChowdhary/NewsHaikusBot) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
-| #35 [citepls](https://github.com/AnandChowdhary/citepls) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
-| #36 [firebase-github-backup](https://github.com/AnandChowdhary/firebase-github-backup) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
-| #37 [gitwords](https://github.com/AnandChowdhary/gitwords) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
-| #38 [gpt-search](https://github.com/AnandChowdhary/gpt-search) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
-| #39 [carpent](https://github.com/AnandChowdhary/carpent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #40 [essential.css](https://github.com/AnandChowdhary/essential.css) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 3 |
-| #41 [analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #42 [mintlify-slack-assistant](https://github.com/AnandChowdhary/mintlify-slack-assistant) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #43 [abendgebet](https://github.com/AnandChowdhary/abendgebet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/0096D8.png&mask=circle" width="10" height="10"> Processing | 3 |
-| #44 [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
-| #45 [undefined](undefined) |  | undefined |
-| #46 [one-grid](https://github.com/AnandChowdhary/one-grid) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2 |
-| #47 [eject-dependencies](https://github.com/AnandChowdhary/eject-dependencies) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
-| #48 [precis](https://github.com/AnandChowdhary/precis) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 1 |
-| #49 [undefined](undefined) |  | undefined |
-| #50 [mockingbird](https://github.com/AnandChowdhary/mockingbird) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
-| #51 [typestart](https://github.com/AnandChowdhary/typestart) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #52 [cosmic](https://github.com/AnandChowdhary/cosmic) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
-| #53 [undefined](undefined) |  | undefined |
-| #54 [rescuetime-slack](https://github.com/AnandChowdhary/rescuetime-slack) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
-| #55 [undefined](undefined) |  | undefined |
-| #56 [anand.link](https://github.com/AnandChowdhary/anand.link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3572A5.png&mask=circle" width="10" height="10"> Python | 3 |
-| #57 [algolia-crawl](https://github.com/AnandChowdhary/algolia-crawl) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 1 |
-| #58 [undefined](undefined) |  | undefined |
-| #59 [undefined](undefined) |  | undefined |
-| #60 [keeep](https://github.com/AnandChowdhary/keeep) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f34b7d.png&mask=circle" width="10" height="10"> C++ | 3 |
-| #61 [drumpad](https://github.com/AnandChowdhary/drumpad) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/0096D8.png&mask=circle" width="10" height="10"> Processing | 3 |
-| #62 [555-lazy-load](https://github.com/AnandChowdhary/555-lazy-load) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2 |
-| #63 [aptitude](https://github.com/AnandChowdhary/aptitude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/663399.png&mask=circle" width="10" height="10"> CSS | 1 |
+| #20 [puppet](https://github.com/AnandChowdhary/puppet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 14 |
+| #21 [archiver](https://github.com/AnandChowdhary/archiver) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 12 |
+| #22 [chat](https://github.com/AnandChowdhary/chat) |  | 12 |
+| #23 [scrub](https://github.com/AnandChowdhary/scrub) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 11 |
+| #24 [nord.js](https://github.com/AnandChowdhary/nord.js) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 11 |
+| #25 [yoga](https://github.com/AnandChowdhary/yoga) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/438eff.png&mask=circle" width="10" height="10"> Objective-C | 10 |
+| #26 [deploy-pr-action](https://github.com/AnandChowdhary/deploy-pr-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 10 |
+| #27 [feeedback](https://github.com/AnandChowdhary/feeedback) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 9 |
+| #28 [unfs](https://github.com/AnandChowdhary/unfs) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 9 |
+| #29 [run-url](https://github.com/AnandChowdhary/run-url) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 9 |
+| #30 [twt](https://github.com/AnandChowdhary/twt) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
+| #31 [changebar](https://github.com/AnandChowdhary/changebar) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
+| #32 [birthday-reminders-action](https://github.com/AnandChowdhary/birthday-reminders-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 7 |
+| #33 [claude-code-slack-bot](https://github.com/AnandChowdhary/claude-code-slack-bot) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
+| #34 [status-sync](https://github.com/AnandChowdhary/status-sync) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 7 |
+| #35 [errol](https://github.com/AnandChowdhary/errol) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 6 |
+| #36 [NewsHaikusBot](https://github.com/AnandChowdhary/NewsHaikusBot) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
+| #37 [citepls](https://github.com/AnandChowdhary/citepls) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
+| #38 [browser-extension](https://github.com/AnandChowdhary/browser-extension) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
+| #39 [firebase-github-backup](https://github.com/AnandChowdhary/firebase-github-backup) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 5 |
+| #40 [gitwords](https://github.com/AnandChowdhary/gitwords) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
+| #41 [mockingbird](https://github.com/AnandChowdhary/mockingbird) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
+| #42 [gpt-search](https://github.com/AnandChowdhary/gpt-search) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 4 |
+| #43 [carpent](https://github.com/AnandChowdhary/carpent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #44 [essential.css](https://github.com/AnandChowdhary/essential.css) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 3 |
+| #45 [analytics-icons](https://github.com/AnandChowdhary/analytics-icons) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #46 [mintlify-slack-assistant](https://github.com/AnandChowdhary/mintlify-slack-assistant) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #47 [typestart](https://github.com/AnandChowdhary/typestart) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #48 [rescuetime-slack](https://github.com/AnandChowdhary/rescuetime-slack) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #49 [words](https://github.com/AnandChowdhary/words) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/4F5D95.png&mask=circle" width="10" height="10"> PHP | 3 |
+| #50 [anand.link](https://github.com/AnandChowdhary/anand.link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3572A5.png&mask=circle" width="10" height="10"> Python | 3 |
+| #51 [unqueue](https://github.com/AnandChowdhary/unqueue) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 3 |
+| #52 [wikibility](https://github.com/AnandChowdhary/wikibility) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 3 |
+| #53 [keeep](https://github.com/AnandChowdhary/keeep) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f34b7d.png&mask=circle" width="10" height="10"> C++ | 3 |
+| #54 [abendgebet](https://github.com/AnandChowdhary/abendgebet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/0096D8.png&mask=circle" width="10" height="10"> Processing | 3 |
+| #55 [drumpad](https://github.com/AnandChowdhary/drumpad) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/0096D8.png&mask=circle" width="10" height="10"> Processing | 3 |
+| #56 [node.ts](https://github.com/AnandChowdhary/node.ts) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
+| #57 [one-grid](https://github.com/AnandChowdhary/one-grid) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2 |
+| #58 [eject-dependencies](https://github.com/AnandChowdhary/eject-dependencies) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
+| #59 [cosmic](https://github.com/AnandChowdhary/cosmic) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2 |
+| #60 [555-lazy-load](https://github.com/AnandChowdhary/555-lazy-load) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2 |
+| #61 [precis](https://github.com/AnandChowdhary/precis) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 1 |
+| #62 [aptitude](https://github.com/AnandChowdhary/aptitude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/663399.png&mask=circle" width="10" height="10"> CSS | 1 |
+| #63 [algolia-crawl](https://github.com/AnandChowdhary/algolia-crawl) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 1 |
 | #64 [access](https://github.com/AnandChowdhary/access) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/4F5D95.png&mask=circle" width="10" height="10"> PHP | 1 |
 
 <!--end:generated-->

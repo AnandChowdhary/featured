@@ -7,9 +7,24 @@ const request = (params) => {
     const req = https.request(params, (res) => {
       let str = "";
       res.on("data", (chunk) => (str += chunk));
-      res.on("end", () => resolve(str));
+      res.on("end", () => {
+        if (res.statusCode && res.statusCode >= 400) {
+          const error = new Error(
+            `Request failed with status ${res.statusCode} ${
+              res.statusMessage ?? ""
+            }`.trim()
+          );
+          error.statusCode = res.statusCode;
+          error.statusMessage = res.statusMessage;
+          error.body = str;
+          reject(error);
+          return;
+        }
+        resolve(str);
+      });
       res.on("error", (error) => reject(error));
     });
+    req.on("error", (error) => reject(error));
     req.end();
   });
 };

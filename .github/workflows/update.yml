@@ -21,6 +21,8 @@ jobs:
           node-version: "lts/*"
       - name: Update notes summary
         run: node update-data.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

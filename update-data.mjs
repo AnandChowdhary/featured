@@ -4,26 +4,36 @@ import { readFile, writeFile } from "node:fs/promises";
 /** Make a network request */
 const request = (params) => {
   return new Promise((resolve, reject) => {
-    const req = https.request(params, (res) => {
-      let str = "";
-      res.on("data", (chunk) => (str += chunk));
-      res.on("end", () => {
-        if (res.statusCode && res.statusCode >= 400) {
-          const error = new Error(
-            `Request failed with status ${res.statusCode} ${
-              res.statusMessage ?? ""
-            }`.trim()
-          );
-          error.statusCode = res.statusCode;
-          error.statusMessage = res.statusMessage;
-          error.body = str;
-          reject(error);
-          return;
-        }
-        resolve(str);
-      });
-      res.on("error", (error) => reject(error));
-    });
+    const headers = { "User-Agent": "AnandChowdhary/featured" };
+    if (process.env.GITHUB_TOKEN)
+      headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+
+    const req = https.request(
+      {
+        ...params,
+        headers,
+      },
+      (res) => {
+        let str = "";
+        res.on("data", (chunk) => (str += chunk));
+        res.on("end", () => {
+          if (res.statusCode && res.statusCode >= 400) {
+            const error = new Error(
+              `Request failed with status ${res.statusCode} ${
+                res.statusMessage ?? ""
+              }`.trim()
+            );
+            error.statusCode = res.statusCode;
+            error.statusMessage = res.statusMessage;
+            error.body = str;
+            reject(error);
+            return;
+          }
+          resolve(str);
+        });
+        res.on("error", (error) => reject(error));
+      }
+    );
     req.on("error", (error) => reject(error));
     req.end();
   });
@@ -37,7 +47,6 @@ export const updateData = async () => {
       path: "/ozh/github-colors/master/colors.json",
       port: 443,
       method: "GET",
-      headers: { "User-Agent": "AnandChowdhary/featured" },
     })
   );
   console.log("Fetched colors");
@@ -48,7 +57,6 @@ export const updateData = async () => {
     path: "/stars/AnandChowdhary/lists/featured-projects",
     port: 443,
     method: "GET",
-    headers: { "User-Agent": "AnandChowdhary/featured" },
   });
   console.log("Fetched first page");
   let hasNext = data.includes('rel="next"');
@@ -61,7 +69,6 @@ export const updateData = async () => {
       path: `/stars/AnandChowdhary/lists/featured-projects?page=${++page}`,
       port: 443,
       method: "GET",
-      headers: { "User-Agent": "AnandChowdhary/featured" },
     });
     hasNext = result.includes('rel="next"');
     data += result;
@@ -81,12 +88,6 @@ export const updateData = async () => {
                 path: `/repos/${repo}`,
                 port: 443,
                 method: "GET",
-                headers: {
-                  "User-Agent": "AnandChowdhary/featured",
-                  Authorization: `Basic ${Buffer.from(
-                    process.env.GITHUB_USERNAME + ":" + process.env.GITHUB_TOKEN
-                  ).toString("base64")}`,
-                },
               })
             )
         )

@@ -109,7 +109,7 @@ export const updateData = async () => {
   await writeFile(
     "README.md",
     readmeText.split("<!--start:generated-->")[0] +
-      "<!--start:generated-->\n\n| Project | Language | Stars |\n| ------- | -------- | ----------- |\n" +
+      "<!--start:generated-->\n\n| Project | Language | Year | Stars |\n| ------- | -------- | ----------- |\n" +
       repos
         .map(
           (repo, index) =>
@@ -122,7 +122,7 @@ export const updateData = async () => {
                     ""
                   )}.png&mask=circle" width="10" height="10"> ${repo.language}`
                 : ""
-            } | ${repo.stargazers_count} |`
+            } | ${new Date(repo.created_at).getUTCFullYear()} | ${repo.stargazers_count.toLocaleString("en-US")} |`
         )
         .join("\n") +
       "\n\n<!--end:generated-->" +

@@ -75,21 +75,33 @@ export const updateData = async () => {
     console.log("Next page?", hasNext);
   }
 
+  // Extract repo names from HTML - GitHub uses <h2 class="h3"> for repo headings
+  const repoNames = (data.match(/\<h2 class="h3"\>\s*\<a href=\".+\"\>/g) ?? [])
+    .map((code) => code.split(`href="/`)[1]?.split(`"`)[0] ?? "")
+    .filter((repoName) => !!repoName);
+
+  // Safeguard: throw error if no repos found to prevent saving empty list
+  if (repoNames.length === 0) {
+    throw new Error(
+      "No repositories found! GitHub may have changed their HTML structure. " +
+        "Check the page at https://github.com/stars/AnandChowdhary/lists/featured-projects"
+    );
+  }
+
+  console.log("Found repo names", repoNames.length);
+
   const repos = (
     await Promise.all(
       (
         await Promise.all(
-          (data.match(/\<h3\>\n.+\<a href=\".+\"\>/g) ?? [])
-            .map((code) => code.split(`href="/`)[1]?.split(`"`)[0] ?? "")
-            .filter((repoName) => !!repoName)
-            .map((repo) =>
-              request({
-                hostname: "api.github.com",
-                path: `/repos/${repo}`,
-                port: 443,
-                method: "GET",
-              })
-            )
+          repoNames.map((repo) =>
+            request({
+              hostname: "api.github.com",
+              path: `/repos/${repo}`,
+              port: 443,
+              method: "GET",
+            })
+          )
         )
       ).map((jsonAsText) => {
         const data = JSON.parse(jsonAsText);
@@ -122,7 +134,11 @@ export const updateData = async () => {
                     ""
                   )}.png&mask=circle" width="10" height="10"> ${repo.language}`
                 : ""
-            } | ${new Date(repo.created_at).getUTCFullYear()} | ${repo.stargazers_count.toLocaleString("en-US")} |`
+            } | ${new Date(
+              repo.created_at
+            ).getUTCFullYear()} | ${repo.stargazers_count.toLocaleString(
+              "en-US"
+            )} |`
         )
         .join("\n") +
       "\n\n<!--end:generated-->" +

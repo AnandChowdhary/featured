@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/upptime/upptime/releases{/id}",
     "deployments_url": "https://api.github.com/repos/upptime/upptime/deployments",
     "created_at": "2020-08-08T16:34:41Z",
-    "updated_at": "2026-02-08T23:20:33Z",
-    "pushed_at": "2026-02-08T23:20:29Z",
+    "updated_at": "2026-02-15T23:16:19Z",
+    "pushed_at": "2026-02-15T23:16:15Z",
     "git_url": "git://github.com/upptime/upptime.git",
     "ssh_url": "git@github.com:upptime/upptime.git",
     "clone_url": "https://github.com/upptime/upptime.git",
     "svn_url": "https://github.com/upptime/upptime",
     "homepage": "https://upptime.js.org",
-    "size": 977617,
-    "stargazers_count": 16846,
-    "watchers_count": 16846,
+    "size": 981094,
+    "stargazers_count": 16867,
+    "watchers_count": 16867,
     "language": "JSON",
     "has_issues": true,
     "has_projects": false,
@@ -99,6 +99,8 @@
     "allow_forking": true,
     "is_template": true,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "incidents-reports",
       "status",
@@ -110,7 +112,7 @@
     "visibility": "public",
     "forks": 1017,
     "open_issues": 114,
-    "watchers": 16846,
+    "watchers": 16867,
     "default_branch": "master",
     "permissions": {
       "admin": false,
@@ -246,6 +248,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "file-upload",
       "hacktoberfest",
@@ -362,7 +366,7 @@
     "releases_url": "https://api.github.com/repos/AnandChowdhary/continuous-claude/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/continuous-claude/deployments",
     "created_at": "2025-11-15T08:59:04Z",
-    "updated_at": "2026-02-08T16:39:59Z",
+    "updated_at": "2026-02-13T17:44:16Z",
     "pushed_at": "2026-01-27T10:45:43Z",
     "git_url": "git://github.com/AnandChowdhary/continuous-claude.git",
     "ssh_url": "git@github.com:AnandChowdhary/continuous-claude.git",
@@ -370,8 +374,8 @@
     "svn_url": "https://github.com/AnandChowdhary/continuous-claude",
     "homepage": "https://anandchowdhary.com/open-source/2025/continuous-claude",
     "size": 307,
-    "stargazers_count": 1204,
-    "watchers_count": 1204,
+    "stargazers_count": 1210,
+    "watchers_count": 1210,
     "language": "Shell",
     "has_issues": true,
     "has_projects": false,
@@ -379,7 +383,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 89,
+    "forks_count": 88,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -394,6 +398,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "ai",
       "ai-agents",
@@ -402,9 +408,9 @@
       "continuous-ai"
     ],
     "visibility": "public",
-    "forks": 89,
+    "forks": 88,
     "open_issues": 14,
-    "watchers": 1204,
+    "watchers": 1210,
     "default_branch": "main",
     "permissions": {
       "admin": false,
@@ -414,7 +420,7 @@
       "pull": false
     },
     "temp_clone_token": "",
-    "network_count": 89,
+    "network_count": 88,
     "subscribers_count": 8,
     "language_color": "#89e051"
   },
@@ -486,7 +492,7 @@
     "releases_url": "https://api.github.com/repos/AnandChowdhary/calendar-link/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/calendar-link/deployments",
     "created_at": "2019-01-16T15:51:01Z",
-    "updated_at": "2026-01-27T22:18:48Z",
+    "updated_at": "2026-02-10T23:34:46Z",
     "pushed_at": "2026-01-27T00:23:28Z",
     "git_url": "git://github.com/AnandChowdhary/calendar-link.git",
     "ssh_url": "git@github.com:AnandChowdhary/calendar-link.git",
@@ -494,8 +500,8 @@
     "svn_url": "https://github.com/AnandChowdhary/calendar-link",
     "homepage": "https://anandchowdhary.github.io/calendar-link/",
     "size": 2751,
-    "stargazers_count": 619,
-    "watchers_count": 619,
+    "stargazers_count": 620,
+    "watchers_count": 620,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -518,6 +524,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "calendar",
       "calendar-link",
@@ -530,7 +538,7 @@
     "visibility": "public",
     "forks": 77,
     "open_issues": 11,
-    "watchers": 619,
+    "watchers": 620,
     "default_branch": "master",
     "permissions": {
       "admin": false,
@@ -638,6 +646,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "help-ukraine",
       "javascript",
@@ -784,6 +794,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "a11y",
       "hovercard",
@@ -908,6 +920,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "engagement",
       "hellobar",
@@ -1032,6 +1046,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "api",
       "books",
@@ -1154,6 +1170,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "github-actions",
         "nodejs",
@@ -1278,6 +1296,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "generator",
       "icons",
@@ -1400,6 +1420,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "google",
       "google-docs",
@@ -1521,6 +1543,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -1640,6 +1664,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "i18n",
       "javascript",
@@ -1765,6 +1791,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 15,
@@ -1883,6 +1911,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "github-actions",
       "nodejs",
@@ -2007,6 +2037,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "automation",
       "google-translate",
@@ -2102,13 +2134,13 @@
     "deployments_url": "https://api.github.com/repos/AnandChowdhary/sharer.link/deployments",
     "created_at": "2019-03-22T15:43:15Z",
     "updated_at": "2025-12-04T09:57:30Z",
-    "pushed_at": "2025-09-14T08:00:18Z",
+    "pushed_at": "2026-02-15T15:40:14Z",
     "git_url": "git://github.com/AnandChowdhary/sharer.link.git",
     "ssh_url": "git@github.com:AnandChowdhary/sharer.link.git",
     "clone_url": "https://github.com/AnandChowdhary/sharer.link.git",
     "svn_url": "https://github.com/AnandChowdhary/sharer.link",
     "homepage": "https://sharer-link.netlify.app",
-    "size": 1960,
+    "size": 2138,
     "stargazers_count": 25,
     "watchers_count": 25,
     "language": "Vue",
@@ -2122,7 +2154,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -2133,6 +2165,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "links",
       "share",
@@ -2142,7 +2176,7 @@
     ],
     "visibility": "public",
     "forks": 3,
-    "open_issues": 15,
+    "open_issues": 16,
     "watchers": 25,
     "default_branch": "master",
     "permissions": {
@@ -2257,6 +2291,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "deliverability",
       "dns",
@@ -2384,6 +2420,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "calendar",
       "calendar-api",
@@ -2504,6 +2542,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -2629,6 +2669,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "badge",
       "hacker-news",
@@ -2755,6 +2797,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "app",
       "git",
@@ -2879,6 +2923,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "filesystem",
       "fs",
@@ -3003,6 +3049,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "automation",
       "chrome",
@@ -3125,6 +3173,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -3250,6 +3300,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -3362,6 +3414,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "archive-dot-org",
       "automation",
@@ -3487,6 +3541,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "error-handling",
       "error-monitoring",
@@ -3610,6 +3666,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "api",
       "backend",
@@ -3732,6 +3790,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "app",
       "healthkit",
@@ -3856,6 +3916,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "deployment",
       "github-action",
@@ -3977,6 +4039,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "github-actions",
         "nodejs",
@@ -4101,6 +4165,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "dom",
       "feedback",
@@ -4223,6 +4289,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -4347,6 +4415,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "claude",
       "claude-ai",
@@ -4474,6 +4544,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "file-upload",
       "fs",
@@ -4599,6 +4671,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "bash",
       "cli",
@@ -4725,6 +4799,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "hmac",
       "jsonwebtoken",
@@ -4846,6 +4922,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -4971,6 +5049,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "changelog",
       "notifications",
@@ -5096,6 +5176,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "birthday",
       "birthday-reminder",
@@ -5220,6 +5302,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "github-actions",
       "github-api",
@@ -5344,6 +5428,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "email",
       "javascript",
@@ -5466,6 +5552,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "github-actions",
         "starter",
@@ -5592,6 +5680,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "gpt-3",
       "openai",
@@ -5717,6 +5807,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -5835,6 +5927,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "browser-extention",
       "chrome-extension",
@@ -5954,6 +6048,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "backup",
       "backups",
@@ -6078,6 +6174,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "assistant",
       "bot",
@@ -6204,6 +6302,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "github",
       "nodejs",
@@ -6330,6 +6430,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "a11y",
       "android",
@@ -6449,6 +6551,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "google",
       "gpt-4",
@@ -6572,6 +6676,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "bootstrapping",
       "cli",
@@ -6692,6 +6798,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -6811,6 +6919,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "css",
       "library",
@@ -6936,6 +7046,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "browser",
       "icons",
@@ -7061,6 +7173,8 @@
     "allow_forking": true,
     "is_template": true,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "javascript",
       "library",
@@ -7184,6 +7298,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "github-actions",
       "rescue-time",
@@ -7304,6 +7420,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "deno",
         "denoland",
@@ -7424,6 +7542,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "cms",
       "json",
@@ -7547,6 +7667,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "github-actions",
       "netlify",
@@ -7667,6 +7789,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "url-shortener"
       ],
@@ -7776,6 +7900,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "url-shortener"
       ],
@@ -7883,6 +8009,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "nodejs",
       "queue",
@@ -8005,6 +8133,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "github-actions",
         "starter",
@@ -8131,6 +8261,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "angularjs",
       "css",
@@ -8256,6 +8388,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "c-plus-plus",
       "encoder",
@@ -8379,6 +8513,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "creative-technology",
       "game",
@@ -8503,6 +8639,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "arduino",
       "music",
@@ -8625,6 +8763,8 @@
     "allow_forking": true,
     "is_template": true,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "javascript",
       "library",
@@ -8749,6 +8889,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "css",
       "grid",
@@ -8873,6 +9015,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "cli",
       "dependencies",
@@ -8994,6 +9138,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -9119,6 +9265,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "config",
       "cosmiconfig",
@@ -9239,6 +9387,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "javascript",
         "library",
@@ -9358,6 +9508,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [],
     "visibility": "public",
     "forks": 0,
@@ -9470,6 +9622,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "jquery",
       "php",
@@ -9586,6 +9740,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "css",
       "html",
@@ -9704,6 +9860,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "algolia",
       "algolia-api",
@@ -9753,7 +9911,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/pabio/template",
-      "description": "🖌️ Repository template with GitHub Actions CI, releases, and more",
+      "description": "��️ Repository template with GitHub Actions CI, releases, and more",
       "fork": false,
       "url": "https://api.github.com/repos/pabio/template",
       "forks_url": "https://api.github.com/repos/pabio/template/forks",
@@ -9825,6 +9983,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "github-actions",
         "starter",
@@ -9951,6 +10111,8 @@
     "allow_forking": true,
     "is_template": false,
     "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
     "topics": [
       "php",
       "sass",

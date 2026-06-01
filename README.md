@@ -8,11 +8,11 @@ This repository contains an API to access my favorite open source projects built
 
 | Project | Language | Year | Stars |
 | ------- | -------- | ---- | ----- |
-| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/083fa1.png&mask=circle" width="10" height="10"> Markdown | 2020 | 17,040 |
+| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/083fa1.png&mask=circle" width="10" height="10"> Markdown | 2020 | 17,044 |
 | #2 [uppload](https://github.com/elninotech/uppload) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2018 | 1,879 |
-| #3 [continuous-claude](https://github.com/AnandChowdhary/continuous-claude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/89e051.png&mask=circle" width="10" height="10"> Shell | 2025 | 1,339 |
-| #4 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2019 | 620 |
-| #5 [redirect-russia](https://github.com/pabio/redirect-russia) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2022 | 101 |
+| #3 [continuous-claude](https://github.com/AnandChowdhary/continuous-claude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/89e051.png&mask=circle" width="10" height="10"> Shell | 2025 | 1,344 |
+| #4 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2019 | 621 |
+| #5 [redirect-russia](https://github.com/pabio/redirect-russia) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2022 | 102 |
 | #6 [hovercard](https://github.com/AnandChowdhary/hovercard) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2018 | 92 |
 | #7 [hello-bar](https://github.com/AnandChowdhary/hello-bar) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 2018 | 76 |
 | #8 [bookshelf-action](https://github.com/AnandChowdhary/bookshelf-action) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2021 | 72 |

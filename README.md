@@ -8,10 +8,10 @@ This repository contains an API to access my favorite open source projects built
 
 | Project | Language | Year | Stars |
 | ------- | -------- | ---- | ----- |
-| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/083fa1.png&mask=circle" width="10" height="10"> Markdown | 2020 | 17,109 |
+| #1 [upptime](https://github.com/upptime/upptime) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/083fa1.png&mask=circle" width="10" height="10"> Markdown | 2020 | 17,120 |
 | #2 [uppload](https://github.com/elninotech/uppload) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2018 | 1,878 |
-| #3 [continuous-claude](https://github.com/AnandChowdhary/continuous-claude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/89e051.png&mask=circle" width="10" height="10"> Shell | 2025 | 1,365 |
-| #4 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2019 | 622 |
+| #3 [continuous-claude](https://github.com/AnandChowdhary/continuous-claude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/89e051.png&mask=circle" width="10" height="10"> Shell | 2025 | 1,368 |
+| #4 [calendar-link](https://github.com/AnandChowdhary/calendar-link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2019 | 623 |
 | #5 [redirect-russia](https://github.com/pabio/redirect-russia) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/e34c26.png&mask=circle" width="10" height="10"> HTML | 2022 | 102 |
 | #6 [hovercard](https://github.com/AnandChowdhary/hovercard) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2018 | 92 |
 | #7 [hello-bar](https://github.com/AnandChowdhary/hello-bar) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/f1e05a.png&mask=circle" width="10" height="10"> JavaScript | 2018 | 75 |
@@ -22,10 +22,10 @@ This repository contains an API to access my favorite open source projects built
 | #12 [priced-in](https://github.com/AnandChowdhary/priced-in) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2025 | 48 |
 | #13 [update-template](https://github.com/AnandChowdhary/update-template) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2020 | 33 |
 | #14 [auto-i18n](https://github.com/AnandChowdhary/auto-i18n) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2019 | 32 |
-| #15 [sharer.link](https://github.com/AnandChowdhary/sharer.link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/41b883.png&mask=circle" width="10" height="10"> Vue | 2019 | 27 |
+| #15 [sharer.link](https://github.com/AnandChowdhary/sharer.link) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/41b883.png&mask=circle" width="10" height="10"> Vue | 2019 | 28 |
 | #16 [deliverabilityguide.com](https://github.com/AnandChowdhary/deliverabilityguide.com) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2023 | 26 |
-| #17 [calendar-slots](https://github.com/AnandChowdhary/calendar-slots) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2020 | 20 |
-| #18 [hackerbadge](https://github.com/AnandChowdhary/hackerbadge) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2020 | 18 |
+| #17 [calendar-slots](https://github.com/AnandChowdhary/calendar-slots) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2020 | 21 |
+| #18 [hackerbadge](https://github.com/AnandChowdhary/hackerbadge) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2020 | 19 |
 | #19 [gitwriter](https://github.com/AnandChowdhary/gitwriter) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/41b883.png&mask=circle" width="10" height="10"> Vue | 2019 | 16 |
 | #20 [fraud](https://github.com/AnandChowdhary/fraud) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2019 | 16 |
 | #21 [puppet](https://github.com/AnandChowdhary/puppet) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2020 | 14 |
@@ -73,6 +73,8 @@ This repository contains an API to access my favorite open source projects built
 | #63 [aptitude](https://github.com/AnandChowdhary/aptitude) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/663399.png&mask=circle" width="10" height="10"> CSS | 2014 | 1 |
 | #64 [algolia-crawl](https://github.com/AnandChowdhary/algolia-crawl) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/3178c6.png&mask=circle" width="10" height="10"> TypeScript | 2020 | 1 |
 | #65 [access](https://github.com/AnandChowdhary/access) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/4F5D95.png&mask=circle" width="10" height="10"> PHP | 2017 | 1 |
+| #66 [cr](https://github.com/AnandChowdhary/cr) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/dea584.png&mask=circle" width="10" height="10"> Rust | 2026 | 1 |
+| #67 [aagent](https://github.com/AnandChowdhary/aagent) | <img alt="" src="https://images.weserv.nl/?url=img.spacergif.org/v1/20x20/012456.png&mask=circle" width="10" height="10"> PowerShell | 2026 | 1 |
 
 <!--end:generated-->
 
